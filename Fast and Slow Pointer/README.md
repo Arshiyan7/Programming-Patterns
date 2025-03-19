@@ -1,4 +1,4 @@
-# Slow and Fast Pointers (Two Pointers)
+# Slow and Fast Pointers 
 
 ## What are Slow and Fast Pointers?
 
